@@ -1,0 +1,22 @@
+{
+  "name": "texas-holdem-service",
+  "version": "1.0.0",
+  "description": "Texas Holdem Realisation Service for WEB project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudlayalexander/Texas-Holdem-Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudlayalexander/Texas-Holdem-Service/issues"
+  },
+  "homepage": "https://github.com/kudlayalexander/Texas-Holdem-Service#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
